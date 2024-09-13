@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hyun647!
+# 👋 Hi there, I'm Hyun!
 
 Welcome to my GitHub profile! I'm passionate about software development and love exploring new technologies. Here, you can find some of the technologies and tools I work with and the best ways to get in touch with me.
 
@@ -70,9 +70,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
     <img src="https://img.shields.io/badge/github.io-1EBC8F?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   </a>
   <a href="mailto:chodohyun0407@icloud.com">
-  <img src="https://img.shields.io/badge/mail-2196F3?style=for-the-badge&logo=mail&logoColor=white"/>&nbsp
-</a>
-
+    <img src="https://img.shields.io/badge/mail-2196F3?style=for-the-badge&logo=icloud&logoColor=white"/>&nbsp
+  </a>
 </div>
 
 ---
