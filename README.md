@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-badge&logo=xcode&logoColor=white"/>&nbsp
 </div>
 
 ---
