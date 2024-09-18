@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Objective-C-333333?style=flat-square&logo=objective-c&logoColor=white"/>&nbsp
 </div>
 
 <div align="center">
@@ -59,6 +61,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white"/>&nbsp
 </div>
 
 ---
