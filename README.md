@@ -1,3 +1,5 @@
+![welcome_img](https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif)
+
 # 👋 Hi there, I'm Hyun!
 
 Welcome to my GitHub profile! I'm passionate about software development and love exploring new technologies. Here, you can find some of the technologies and tools I work with and the best ways to get in touch with me.
