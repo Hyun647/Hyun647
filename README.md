@@ -72,9 +72,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
   <a href="https://hyun647.github.io">
     <img src="https://img.shields.io/badge/github.io-1EBC8F?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:chodohyun0407@icloud.com">
-    <img src="https://img.shields.io/badge/mail-2196F3?style=for-the-badge&logo=icloud&logoColor=white"/>&nbsp
-  </a>
 </div>
 
 ---
